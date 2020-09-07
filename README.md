@@ -1,4 +1,4 @@
-<h1 align="center">INDIA v1.1</h1>
+<h1 align="center">INDIAN v1.1</h1>
 <p align="center">
       New advanced terminal for Termux users with simple steps
 </p>
@@ -14,7 +14,7 @@ T-LOAD is a bash based script which modifies and changes your terminal from bori
 
 ![photo_2019-06-04_18-59-31](https://user-images.githubusercontent.com/49580304/58883803-c6ff2000-86fc-11e9-8897-362830f1781d.jpg)
 
-### INDIA is available for
+### INDIAN is available for
 
 * Termux
 
@@ -36,13 +36,13 @@ $ git clone https://github.com/skriptkids/INDIAN
 $ ls
 ```
 ```
-$ cd T-LOAD
+$ cd INDIAN
 ```
 ```
 $ ls
 ```
 ```
-$ bash t-load.sh
+$ bash t-indian.sh
 ```
 ```
 * Now make sue that you internet connection is on and after that the installation starts automatically
@@ -63,7 +63,7 @@ Note:- Don't delete any of the audio files from your sdcard/internal storage or 
 To revert/to get back into normal termux mode use this commands
 ```
 ```
-cd T-LOAD
+cd INDIAN
 ```
 ls
 ```
