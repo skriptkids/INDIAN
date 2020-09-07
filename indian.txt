@@ -4,4 +4,6 @@ date
 echo " "
 echo "                      "⚡ 127.0.0.1 ⚡
 echo " "
+echo ".                     "🇮🇳 JAI HIND 🇮🇳
+echo " "
 echo -e "\e[32m"
