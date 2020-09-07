@@ -30,7 +30,7 @@ $ apt-get upgrade -y
 $ pkg install git -y
 ```
 ```
-$ git clone https://github.com/skriptkids/jithu
+$ git clone https://github.com/skriptkids/INDIAN
 ```
 ```
 $ ls
