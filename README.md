@@ -36,7 +36,7 @@ $ cd INDIAN
 $ ls
 ```
 ```
-$ bash t-indian.sh
+$ bash indian.sh
 ```
 ```
 * Now make sue that you internet connection is on and after that the installation starts automatically
