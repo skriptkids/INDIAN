@@ -3,16 +3,10 @@
       New advanced terminal for Termux users with simple steps
 </p>
 
-## About INDIA :
+## About INDIAN :
 
-T-LOAD is a bash based script which modifies and changes your terminal from boring to awesome in just oneclick without any issue and without root. This tool works on both rooted Android device and Non-rooted Android device.
+INDIAN is a bash based script which modifies and changes your terminal from boring to awesome in just oneclick without any issue and without root. This tool works on both rooted Android device and Non-rooted Android device.
 
-[![Build Status](https://img.shields.io/github/stars/noob-hackers/T-LOAD.svg)](https://github.com/noob-hackers/T-LOAD)
-[![Build Status](https://img.shields.io/github/forks/noob-hackers/T-LOAD.svg)](https://github.com/noob-hackers/T-LOAD)
-[![License: MIT](https://img.shields.io/github/license/noob-hackers/T-LOAD.svg)](https://github.com/noob-hackers/T-LOAD)
-[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#T-LOAD)
-
-![photo_2019-06-04_18-59-31](https://user-images.githubusercontent.com/49580304/58883803-c6ff2000-86fc-11e9-8897-362830f1781d.jpg)
 
 ### INDIAN is available for
 
